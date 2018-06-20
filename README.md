@@ -10,6 +10,6 @@ The project includes looking up the mission, extracting the orbit parameters of 
 
 The simulations have been made in MATLAB, the plots have been made in python and the report has been made in LaTeX. The relevant references have been mentioned in the report.
 
-MATLAB simulation is adapted from deedy's repository of the same name as the folder uploaded in my repository.
+MATLAB simulation is adapted from [deedy's repository](https://github.com/deedy/Satellite-Orbit-Simulation) of the same name as the folder uploaded in my repository.
 
 
